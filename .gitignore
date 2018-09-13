@@ -1,0 +1,7 @@
+.settings
+.classpath
+.mymetadata
+.project
+WebRoot/WEB-INF/classes/.gitignore
+WebRoot/WEB-INF/MANIFEST.MF
+WebRoot/META-INF/MANIFEST.MF
